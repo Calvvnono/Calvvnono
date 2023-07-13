@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently currently an undergraduate student at HUST(Huazhong University of Science and Technology) majoring in Cyber Security.
 ![Calvvnono's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calvvnono&theme=tokyonight&show_icons=true)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Calvvnono.Calvvnono&left_color=green&right_color=red)
