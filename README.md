@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently currently an undergraduate student at HUST(Huazhong University of Science and Technology) majoring in Cyber Security.
+📫 How to reach me: shenyudai@hust.edu.cn
 ![Calvvnono's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calvvnono&theme=tokyonight&show_icons=true)
