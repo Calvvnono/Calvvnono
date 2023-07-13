@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently currently an undergraduate student at **HUST**(Huazhong University of Science and Technology) majoring in Cyber Security.  
-🔭 Java/Software Security & Testing, a little bit Python  
+🌱 I’m currently an undergraduate student at **HUST**(Huazhong University of Science and Technology) majoring in Cyber Security.  
+🔭 **Java/Software Security & Testing**, a little bit Python  
 📫 How to reach me: shenyudai@hust.edu.cn  
 😄 Pronouns: he/him  
-![Calvvnono's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calvvnono&theme=tokyonight&show_icons=true)
+![Calvvnono's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calvvnono&theme=cobalt&show_icons=true)
