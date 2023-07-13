@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 😄 Pronouns: he/him  
 ### Annually development ✨
 ![Calvvnono's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calvvnono&theme=cobalt&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calvvnono&layout=compact)](https://github.com/Calvvnono/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calvvnono)](https://github.com/Calvvnono/github-readme-stats)
