@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi,Calvvnono here 👋
 
 <!--
 **Calvvnono/Calvvnono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently currently an undergraduate student at HUST(Huazhong University of Science and Technology) majoring in Cyber Security.
-📫 How to reach me: shenyudai@hust.edu.cn
+🌱 I’m currently currently an undergraduate student at **HUST**(Huazhong University of Science and Technology) majoring in Cyber Security.  
+🔭 Java/Software Security & Testing, a little bit Python  
+📫 How to reach me: shenyudai@hust.edu.cn  
+😄 Pronouns: he/him  
 ![Calvvnono's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calvvnono&theme=tokyonight&show_icons=true)
