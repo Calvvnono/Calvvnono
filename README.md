@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Calvvnono's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calvvnono&theme=tokyonight&show_icons=true)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Calvvnono.visitor-badge&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Calvvnono.Calvvnono&left_color=green&right_color=red)
