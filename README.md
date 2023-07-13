@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 🔭 **Java/Software Security & Testing**, a little bit Python  
 📫 How to reach me: shenyudai@hust.edu.cn  
 😄 Pronouns: he/him  
-![Calvvnono's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calvvnono&theme=cobalt&show_icons=true)
+<p align="right">![Calvvnono's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calvvnono&theme=cobalt&show_icons=true)</p>
