@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently an undergraduate student at **HUST**(Huazhong University of Science and Technology) majoring in Cyberspace Security.  
-🔭 **Java/Software Security & Testing**, a little bit Python  
+🔭 **Java/Software Security & Testing**, a little bit Python/Javascript  
 📫 How to reach me: shenyudai@hust.edu.cn  
 😄 Pronouns: he/him  
 ### Annually development ✨
