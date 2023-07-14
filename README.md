@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently an undergraduate student at **HUST**(Huazhong University of Science and Technology) majoring in Cyber Security.  
+🌱 I’m currently an undergraduate student at **HUST**(Huazhong University of Science and Technology) majoring in Cyberspace Security.  
 🔭 **Java/Software Security & Testing**, a little bit Python  
 📫 How to reach me: shenyudai@hust.edu.cn  
 😄 Pronouns: he/him  
