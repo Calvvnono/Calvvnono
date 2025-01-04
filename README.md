@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Shawn Dai
+# 👋 Hey, I'm Shawn Dai
 
 I am an undergraduate student at Huazhong University of Science and Technology, majoring in Cybersecurity. My previous experiences have allowed me to explore various areas, including software security, network security, and trustworthy AI. Moving forward, I aim to deepen my specialization in software engineering and computer security.
 
@@ -6,7 +6,7 @@ In my own time, I’m passionate about movies, music of various genres, and lite
 
 ------
 
-### Skills and Tools
+## Skills and Tools
 
 - 🛡️**Security** — Vulnerability Analysis, Secure Coding, Reverse Engineering, Penetration Testing
 - 💻**Software** — Python, C/C++, Java, HTML/JS/CSS
