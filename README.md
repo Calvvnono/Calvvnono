@@ -20,6 +20,6 @@ In my own time, I’m passionate about movies, music of various genres, and lite
 </div>
 
 ## Today's Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&layout=samuel&font=Redressed" alt="quotes" />
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?layout=samuel&font=Redressed)
 
 ![](https://komarev.com/ghpvc/?username=Calvvnono&color=blueviolet)
