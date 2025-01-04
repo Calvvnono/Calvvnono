@@ -12,7 +12,10 @@ In my own time, I’m passionate about movies, music of various genres, and lite
 
 ![dark](https://raw.githubusercontent.com/Calvvnono/Calvvnono/output/github-contribution-grid-snake.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calvvnono&layout=compact&theme=radical)
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Calvvnono&count_private=true&include_all_commits=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calvvnono&layout=compact&theme=radical" />
+</div>
 
 ## Today's Programming Quote
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
