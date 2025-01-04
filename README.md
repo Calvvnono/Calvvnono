@@ -10,4 +10,11 @@ In my own time, I’m passionate about movies, music of various genres, and lite
 - 💻**Software** — Python, C/C++, Java, HTML/JS/CSS
 - 🔬**Research** — Software Security, Network Security, Trustworthy AI, Ethical Hacking
 
-![dark](https://raw.githubusercontent.com/Calvvnono/Calvvnono/output/github-contribution-grid-snake-dark.svg)
+![dark](https://raw.githubusercontent.com/Calvvnono/Calvvnono/output/github-contribution-grid-snake.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calvvnono&layout=compact&theme=radical)
+
+## Today's Programming Quote
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![](https://komarev.com/ghpvc/?username=Calvvnono&color=blueviolet)
