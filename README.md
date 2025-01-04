@@ -10,7 +10,7 @@ In my own time, I’m passionate about movies, music of various genres, and lite
 
 - 🛡️**Security** — Vulnerability Analysis, Secure Coding, Reverse Engineering, Penetration Testing
 - 💻**Software** — Python, C/C++, Java, HTML/JS/CSS
-- 🔬**Research** — Software Security, Network Security, Trustworthy AI, Risk Assessment, Ethical Hacking
+- 🔬**Research** — Software Security, Network Security, Trustworthy AI, Ethical Hacking
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Calvvnono&theme=radical&row=1" />
