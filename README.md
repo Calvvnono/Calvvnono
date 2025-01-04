@@ -17,7 +17,7 @@ In my own time, I’m passionate about movies, music of various genres, and lite
   <img height="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calvvnono&layout=compact&theme=radical" />
   <!-- <img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=Calvvnono&layout=compact&theme=radical" /> -->
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Calvvnono&theme=radical" />
-  <img height="150" src="https://github-readme-activity-graph.cyclic.app/graph?username=YourGitHubUsername&theme=react-dark" />
+  <img height="150" src="https://github-readme-activity-graph.cyclic.app/graph?username=Calvvnono&theme=react-dark" />
 </div>
 
 ## Today's Programming Quote
