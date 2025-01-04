@@ -4,12 +4,10 @@ I am an undergraduate student at Huazhong University of Science and Technology, 
 
 In my own time, I’m passionate about movies, music of various genres, and literature. I believe that everything—from scientific progress to philosophical reflection—guides us toward peeling back the layers of understanding the essence of the world and the human mind, like uncovering the core of an onion.
 
-------
-
 ## Skills and Tools
 
 - 🛡️**Security** — Vulnerability Analysis, Secure Coding, Reverse Engineering, Penetration Testing
 - 💻**Software** — Python, C/C++, Java, HTML/JS/CSS
 - 🔬**Research** — Software Security, Network Security, Trustworthy AI, Ethical Hacking
 
-![Snake animation](https://github.com/Calvvnono/Calvvnono/blob/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Calvvnono/Calvvnono/main/assets/github-contribution-grid-snake.svg)
