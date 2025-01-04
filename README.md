@@ -12,7 +12,7 @@ In my own time, I’m passionate about movies, music of various genres, and lite
 - 💻**Software** — Python, C/C++, Java, HTML/JS/CSS
 - 🔬**Research** — Software Security, Network Security, Trustworthy AI, Ethical Hacking
 
-![Snake animation](https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Calvvnono/Calvvnono/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
   ![Snake animation](https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg)
 </div>
