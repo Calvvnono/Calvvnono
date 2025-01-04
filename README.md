@@ -13,5 +13,5 @@ In my own time, I’m passionate about movies, music of various genres, and lite
 - 🔬**Research** — Software Security, Network Security, Trustworthy AI, Ethical Hacking
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Calvvnono&theme=radical&row=1" />
+  ![Snake animation](https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg)
 </div>
