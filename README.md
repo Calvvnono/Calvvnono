@@ -19,7 +19,7 @@ In my own time, I’m passionate about movies, music of various genres, and lite
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Calvvnono&theme=vue&utcOffset=8" />
 </div>
 
-## Today's Programming Quote
-<img width="600" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="quotes" />
+## Today's Quote
+<img width="400" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="quotes" />
 
 ![](https://komarev.com/ghpvc/?username=Calvvnono&color=blueviolet)
