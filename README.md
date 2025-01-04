@@ -14,7 +14,8 @@ In my own time, I’m passionate about movies, music of various genres, and lite
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Calvvnono&count_private=true&include_all_commits=true&theme=radical&hide_rank=true&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calvvnono&layout=compact&theme=radical" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calvvnono&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Calvvnono&theme=radical" />
 </div>
 
 ## Today's Programming Quote
