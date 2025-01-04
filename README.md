@@ -20,6 +20,6 @@ In my own time, I’m passionate about movies, music of various genres, and lite
 </div>
 
 ## Today's Quote
-<img height="180" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="quotes" />
+<img height="200" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="quotes" />
 
 ![](https://komarev.com/ghpvc/?username=Calvvnono&color=blueviolet)
