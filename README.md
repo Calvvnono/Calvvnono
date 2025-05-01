@@ -8,7 +8,7 @@ In my own time, I’m passionate about movies, music of various genres, and lite
 
 - 💻**Software** — Python, C/C++, Java, Verilog, HTML/JS/CSS
 - 🔬**Research** — Software Security, Network Security, Trustworthy AI
-- 🛡️**Security** — Vulnerability Analysis, Secure Coding, Reverse Engineering, Penetration Testing, Ethical Hacking
+- 🛡️**Security** — Vulnerability Analysis, Secure Coding, Ethical Hacking
 
 <!-- ![light](https://raw.githubusercontent.com/Calvvnono/Calvvnono/output/github-contribution-grid-snake.svg) -->
 
