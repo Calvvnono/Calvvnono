@@ -2,7 +2,7 @@
 
 A Master student in Cybersecurity at KTH Royal Institute of Technology. My previous experiences have allowed me to explore areas including software security, network security, and trustworthy AI. Moving forward, I aim to deepen my specialization in software engineering and computer security.
 
-In my own time, I’m passionate about movies, music of various genres, and literature. I believe that everything—from scientific progress to philosophical reflection—guides us toward peeling back the layers of understanding the essence of the world and the human mind, like uncovering the core of an onion.
+I’m passionate about movies, music of various genres, and literature. I believe that everything—from scientific progress to philosophical reflection—guides us toward peeling back the layers of understanding the essence of the world and the human mind, like uncovering the core of an onion.
 
 ## Skills and Tools
 
