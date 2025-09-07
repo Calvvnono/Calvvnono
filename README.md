@@ -7,7 +7,7 @@ I’m passionate about movies, music of various genres, and literature. I believ
 ## Skills and Tools
 
 - 💻**Software** — Python, C/C++, Java, Verilog, HTML/JS/CSS
-- 🔬**Research** — Software Security, Network Security, Trustworthy AI
+<!-- 🔬**Research** — Software Security, Network Security, Trustworthy AI -->
 - 🛡️**Security** — Vulnerability Analysis, Secure Coding, Ethical Hacking
 
 <!-- ![light](https://raw.githubusercontent.com/Calvvnono/Calvvnono/output/github-contribution-grid-snake.svg) -->
