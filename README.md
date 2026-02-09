@@ -4,7 +4,7 @@ A Master student in Cybersecurity at KTH Royal Institute of Technology. I’m pa
 
 ## Skills and Tools
 
-- 💻**Software** — Python, C/C++, Java, Verilog, HTML/JS/CSS
+- 💻**Software** — Python, C/C++, Java, JavaScript, Verilog
 - 🔬**Research** — Software Security, AI for Security
 - 🛡️**Security** — Vulnerability Analysis, Secure Coding, Ethical Hacking
 
